@@ -1,1 +1,1 @@
-# Linear algebra for Chemical equation balance
+# Linear algebra for Chemical equation balance Using Row Reduced Echelon Form
